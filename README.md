@@ -124,7 +124,7 @@
 - [ ] Done
 
 32
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 33
@@ -132,7 +132,7 @@
 - [ ] Done
 
 34
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 35
@@ -140,7 +140,7 @@
 - [ ] Done
 
 36
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 37
@@ -148,7 +148,7 @@
 - [ ] Done
 
 38
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 39
@@ -156,7 +156,7 @@
 - [ ] Done
 
 40
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 41
