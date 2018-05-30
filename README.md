@@ -1,130 +1,126 @@
 # TIMS
 1
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 2
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 3
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 4
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 5
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 6
-- [ ] in process
-- [ ] Done
-
-6
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 7
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 8
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 9
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 10
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 11
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 12
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 13
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 14
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 15
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 16
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 17
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 18
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 19
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 20
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 21
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 22
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 23
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 24
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 25
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 26
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 27
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 28
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 29
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 30
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 31
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 32
@@ -132,7 +128,7 @@
 - [ ] Done
 
 33
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 34
@@ -140,7 +136,7 @@
 - [ ] Done
 
 35
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 36
@@ -148,7 +144,7 @@
 - [ ] Done
 
 37
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 38
@@ -156,7 +152,7 @@
 - [ ] Done
 
 39
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 40
