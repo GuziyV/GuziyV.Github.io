@@ -1,7 +1,7 @@
 # TIMS
 1
 - [x] in process
-- [ ] Done
+- [x] Done
 
 2
 - [x] in process
@@ -9,7 +9,7 @@
 
 3
 - [x] in process
-- [ ] Done
+- [x] Done
 
 4
 - [x] in process
@@ -17,7 +17,7 @@
 
 5
 - [x] in process
-- [ ] Done
+- [x] Done
 
 6
 - [x] in process
@@ -25,7 +25,7 @@
 
 7
 - [x] in process
-- [ ] Done
+- [x] Done
 
 8
 - [x] in process
@@ -33,7 +33,7 @@
 
 9
 - [x] in process
-- [ ] Done
+- [x] Done
 
 10
 - [x] in process
