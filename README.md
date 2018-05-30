@@ -80,43 +80,43 @@
 - [ ] Done
 
 21
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 22
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 23
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 24
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 25
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 26
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 27
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 28
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 29
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 30
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 31
