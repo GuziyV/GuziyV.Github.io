@@ -45,7 +45,7 @@
 
 12
 - [x] in process
-- [ ] Done
+- [x] Done
 
 13
 - [x] in process
@@ -53,7 +53,7 @@
 
 14
 - [x] in process
-- [ ] Done
+- [x] Done
 
 15
 - [x] in process
@@ -61,7 +61,7 @@
 
 16
 - [x] in process
-- [ ] Done
+- [x] Done
 
 17
 - [x] in process
@@ -69,7 +69,7 @@
 
 18
 - [x] in process
-- [ ] Done
+- [x] Done
 
 19
 - [x] in process
@@ -77,7 +77,7 @@
 
 20
 - [x] in process
-- [ ] Done
+- [x] Done
 
 21
 - [x] in process
