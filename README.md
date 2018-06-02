@@ -85,7 +85,7 @@
 
 22
 - [x] in process
-- [ ] Done
+- [x] Done
 
 23
 - [x] in process
@@ -93,7 +93,7 @@
 
 24
 - [x] in process
-- [ ] Done
+- [x] Done
 
 25
 - [x] in process
@@ -101,7 +101,7 @@
 
 26
 - [x] in process
-- [ ] Done
+- [x] Done
 
 27
 - [x] in process
@@ -109,7 +109,7 @@
 
 28
 - [x] in process
-- [ ] Done
+- [x] Done
 
 29
 - [x] in process
@@ -117,47 +117,47 @@
 
 30
 - [x] in process
-- [ ] Done
+- [x] Done
 
 31
 - [x] in process
-- [ ] Done
+- [x] Done
 
 32
 - [x] in process
-- [ ] Done
+- [x] Done
 
 33
 - [x] in process
-- [ ] Done
+- [x] Done
 
 34
 - [x] in process
-- [ ] Done
+- [x] Done
 
 35
 - [x] in process
-- [ ] Done
+- [x] Done
 
 36
 - [x] in process
-- [ ] Done
+- [x] Done
 
 37
 - [x] in process
-- [ ] Done
+- [x] Done
 
 38
 - [x] in process
-- [ ] Done
+- [x] Done
 
 39
 - [x] in process
-- [ ] Done
+- [x] Done
 
 40
 - [x] in process
-- [ ] Done
+- [x] Done
 
 41
 - [x] in process
